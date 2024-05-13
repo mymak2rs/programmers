@@ -1,6 +1,6 @@
 # [level 1] 인기있는 아이스크림 - 133024 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133024) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133024?language=oracle) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@ Empty
 
 ### 제출 일자
 
-2024년 04월 30일 09:51:45
+2024년 05월 13일 14:04:23
 
 ### 문제 설명
 
